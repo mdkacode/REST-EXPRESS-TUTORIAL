@@ -1,0 +1,24 @@
+{
+  "name": "RESTAPI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author":"md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmm-mayank/REST-EXPRESS-TUTORIAL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmm-mayank/REST-EXPRESS-TUTORIAL/issues"
+  },
+  "homepage": "https://github.com/hmm-mayank/REST-EXPRESS-TUTORIAL#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
